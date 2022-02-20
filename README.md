@@ -1,4 +1,4 @@
-![header_2](https://user-images.githubusercontent.com/72192729/154835470-896890c8-fb74-4b4e-bb8b-bcb221ba7bbf.jpg)(https://adimasmudi.github.io/portofolio/)
+[![header_2](https://user-images.githubusercontent.com/72192729/154835470-896890c8-fb74-4b4e-bb8b-bcb221ba7bbf.jpg)](https://adimasmudi.github.io/portofolio/)
 ### Hello folks 👋
 
 <!--
