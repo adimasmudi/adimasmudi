@@ -1,12 +1,13 @@
 
-[![Header](https://raw.githubusercontent.com/adimasmudi/adimasmudi/header.jpg "Header")](https://adimasmudi.github.io/portofolio/)
-
+<!-- [![Header](https://raw.githubusercontent.com/adimasmudi/adimasmudi/header.jpg "Header")](https://adimasmudi.github.io/portofolio/) -->
+![header](https://user-images.githubusercontent.com/72192729/154835388-cbb370c1-078a-444c-b2be-fc3f88a8037e.jpg)
 ### Hello folks 👋
 
 <!--
 **adimasmudi/adimasmudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
