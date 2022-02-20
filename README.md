@@ -1,8 +1,10 @@
-[![header_2](https://raw.githubusercontent.com/adimasmudi/adimasmudi/main/header.jpg)](https://adimasmudi.github.io/portofolio/)
+[![header_2](https://raw.githubusercontent.com/adimasmudi/adimasmudi/main/header_new.png)](https://adimasmudi.github.io/portofolio/)
 
 <!-- ### Hello folks 👋 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adimasmudi&show_icons=true&theme=radical)](https://github.com/adimasmudi/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adimasmudi&layout=compact)](https://github.com/adimasmudi/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adimasmudi&show_icons=true&theme=radical)](https://github.com/adimasmudi/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adimasmudi&layout=compact)](https://github.com/adimasmudi/github-readme-stats)
 
 <!--
 **adimasmudi/adimasmudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
