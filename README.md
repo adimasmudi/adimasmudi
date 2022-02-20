@@ -2,6 +2,8 @@
 
 ### Hello folks 👋
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adimasmudi)](https://github.com/adimasmudi/github-readme-stats)
+
 <!--
 **adimasmudi/adimasmudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
