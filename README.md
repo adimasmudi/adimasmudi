@@ -1,6 +1,6 @@
 <!-- [![header_2](https://raw.githubusercontent.com/adimasmudi/adimasmudi/main/header_new.png)](https://adimasmudi.github.io/portofolio/) -->
 
-<!-- ### Hello folks 👋 -->
+### Hello folks 👋
 
 
 <!--
