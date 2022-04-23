@@ -36,7 +36,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adimasmudi&layout=compact&theme=radical)](https://github.com/adimasmudi/github-readme-stats)
 
-<img width="640px" src="https://github-readme-streak-stats.herokuapp.com/?user=fachridantm&hide_border=true&theme=radical">
+<img width="640px" src="https://github-readme-streak-stats.herokuapp.com/?user=adimasmudi&hide_border=true&theme=radical">
 
 
 
