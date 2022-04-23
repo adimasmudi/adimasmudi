@@ -24,13 +24,19 @@
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-<!-- ### :hammer_and_wrench: Languages and Tools : -->
+### :hammer_and_wrench: Languages and Tools :
+
+## 📊 Top Repositories
+[![Forest-fire-classifier](https://github-readme-stats.vercel.app/api/pin/?username=adimasmudi&repo=Forest_fire_classifier&show_icons=true&theme=radical)](https://github.com/adimasmudi/Forest_fire_classifier) &nbsp;&nbsp; 
+[![Nofi](https://github-readme-stats.vercel.app/api/pin/?username=adimasmudi&repo=Nofi&show_icons=true&theme=radical)](https://github.com/adimasmudi/Nofi)
 
 ### :fire: My Stats :
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=adimasmudi&theme=dark&background=000000)](https://git.io/streak-stats) -->
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=adimasmudi&show_icons=true&theme=radical)](https://github.com/adimasmudi/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adimasmudi&layout=compact&theme=radical)](https://github.com/adimasmudi/github-readme-stats)
+
+<img width="640px" src="https://github-readme-streak-stats.herokuapp.com/?user=fachridantm&hide_border=true&theme=radical">
 
 
 
