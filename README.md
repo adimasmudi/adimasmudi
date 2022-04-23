@@ -32,9 +32,11 @@
 
 ### :fire: My Stats :
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=adimasmudi&theme=dark&background=000000)](https://git.io/streak-stats) -->
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=adimasmudi&show_icons=true&theme=radical)](https://github.com/adimasmudi/github-readme-stats)
+<!-- [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=adimasmudi&show_icons=true&theme=radical)](https://github.com/adimasmudi/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adimasmudi&layout=compact&theme=radical)](https://github.com/adimasmudi/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adimasmudi&layout=compact&theme=radical)](https://github.com/adimasmudi/github-readme-stats) -->
+
+<img align="center" width="320px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=adimasmudi&show_icons=true&hide_border=true&theme=radical&include_all_commits=true&count_private=true" alt="Masmudi's GitHub Stats"> | <img align="center" width="295px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adimasmudi&langs_count=8&layout=compact&hide_border=true&theme=radical" alt="Masmudi's Most Used Language">
 
 <img width="640px" src="https://github-readme-streak-stats.herokuapp.com/?user=adimasmudi&hide_border=true&theme=radical">
 
