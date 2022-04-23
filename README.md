@@ -25,16 +25,19 @@
 - ⚡ Fun fact: ... -->
 
 ### :hammer_and_wrench: Languages and Tools :
+[![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)](https://git-scm.com/)&nbsp;
+  [![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)](https://github.com/fachridantm/)&nbsp;
+  [![GitLab](https://img.shields.io/badge/-GitLab-%23fc6d26?style=flat&logo=gitlab&logoColor=white)](https://gitlab.com/fachridantm/)&nbsp;
+  [![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)](https://developers.google.com/profile/u/103666064181095934220)&nbsp;
+  ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)&nbsp;
+  ![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=flat&logo=kotlin&logoColor=white)&nbsp;
+  ![Intellij IDEA Ultimate](https://img.shields.io/badge/IntelliJ%20IDEA%20Ultimate-000000.svg?style=flat&logo=intellij-idea&logoColor=white)&nbsp;
 
 ## 📊 Top Repositories
 [![Forest-fire-classifier](https://github-readme-stats.vercel.app/api/pin/?username=adimasmudi&repo=Forest_fire_classifier&show_icons=true&theme=radical)](https://github.com/adimasmudi/Forest_fire_classifier) &nbsp;&nbsp; 
 [![Nofi](https://github-readme-stats.vercel.app/api/pin/?username=adimasmudi&repo=Nofi&show_icons=true&theme=radical)](https://github.com/adimasmudi/Nofi)
 
 ### :fire: My Stats :
-<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=adimasmudi&theme=dark&background=000000)](https://git.io/streak-stats) -->
-<!-- [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=adimasmudi&show_icons=true&theme=radical)](https://github.com/adimasmudi/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adimasmudi&layout=compact&theme=radical)](https://github.com/adimasmudi/github-readme-stats) -->
 
 <img align="center" width="320px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=adimasmudi&show_icons=true&hide_border=true&theme=radical&include_all_commits=true&count_private=true" alt="Masmudi's GitHub Stats"> | <img align="center" width="295px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adimasmudi&langs_count=8&layout=compact&hide_border=true&theme=radical" alt="Masmudi's Most Used Language">
 
