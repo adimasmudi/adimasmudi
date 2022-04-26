@@ -47,8 +47,7 @@
 
 ### :fire: My Stats :
 
-<img align="center" height="200px" width="47%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=adimasmudi&show_icons=true&hide_border=true&theme=radical&include_all_commits=true&count_private=true" alt="Masmudi's GitHub Stats">
-<img align="center" width="47%" height="200px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adimasmudi&langs_count=8&layout=compact&hide_border=true&theme=radical" alt="Masmudi's Most Used Language">
+<img align="center" height="200px" width="47%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=adimasmudi&show_icons=true&hide_border=true&theme=radical&include_all_commits=true&count_private=true" alt="Masmudi's GitHub Stats"> <img align="center" width="47%" height="200px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adimasmudi&langs_count=8&layout=compact&hide_border=true&theme=radical" alt="Masmudi's Most Used Language">
 
 <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=adimasmudi&hide_border=true&theme=radical">
 
