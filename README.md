@@ -19,7 +19,7 @@
 - 🌱 I’m currently learning web development, data science and machine learning
 - 👯 I’m looking to collaborate on community
 - 💬 Ask me about web development and data science 
-- ✈️ You can visit my portfolio website: https://adimasmudi.github.io/portofolio/
+- ✈️ You can visit my portfolio website: https://adimasmudi.github.io
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
