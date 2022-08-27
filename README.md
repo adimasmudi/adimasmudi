@@ -32,13 +32,13 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)&nbsp;
   
 
-## 📊 Top Repositories
-[![Forest-fire-classifier](https://github-readme-stats.vercel.app/api/pin/?username=adimasmudi&repo=Forest_fire_classifier&show_icons=true&theme=radical)](https://github.com/adimasmudi/Forest_fire_classifier) &nbsp;&nbsp; 
-[![Nofi](https://github-readme-stats.vercel.app/api/pin/?username=adimasmudi&repo=Nofi&show_icons=true&theme=radical)](https://github.com/adimasmudi/Nofi)
+<!-- ## 📊 Top Repositories
+ [![Forest-fire-classifier](https://github-readme-stats.vercel.app/api/pin/?username=adimasmudi&repo=Forest_fire_classifier&show_icons=true&theme=radical)](https://github.com/adimasmudi/Forest_fire_classifier) &nbsp;&nbsp; 
+[![Nofi](https://github-readme-stats.vercel.app/api/pin/?username=adimasmudi&repo=Nofi&show_icons=true&theme=radical)](https://github.com/adimasmudi/Nofi) -->
 
 ### :fire: My Stats :
 
-<!-- <img align="center" height="200px" width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=adimasmudi&show_icons=true&hide_border=true&theme=radical&include_all_commits=true&count_private=true" alt="Masmudi's GitHub Stats"> <img align="center" width="49%" height="200px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adimasmudi&langs_count=8&layout=compact&hide_border=true&theme=radical" alt="Masmudi's Most Used Language"> -->
+ <img align="center" height="200px" width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=adimasmudi&show_icons=true&hide_border=true&theme=radical&include_all_commits=true&count_private=true" alt="Masmudi's GitHub Stats"> <img align="center" width="49%" height="200px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adimasmudi&langs_count=8&layout=compact&hide_border=true&theme=radical" alt="Masmudi's Most Used Language">
 <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=adimasmudi&hide_border=true&theme=radical">
 
 ![Adimasmudi's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=adimasmudi&hide_border=true&theme=redical)
