@@ -1,6 +1,6 @@
 <!-- [![header_2](https://raw.githubusercontent.com/adimasmudi/adimasmudi/main/header_new.png)](https://adimasmudi.github.io/portofolio/) -->
 
-### Hello folks, my name is Masmudi 👋
+### Hello folks, my name is Adi Masmudi 👋
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/adi-masmudi-b39472210/">
