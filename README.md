@@ -15,8 +15,8 @@
 </div>
 
 
-- 🔭 I’m currently studying on informatics engineering at Trunojoyo Madura University
-- 🌱 I’m currently learning web development, data science and machine learning
+- 🔭 I’m currently studying on informatics engineering at Universitas Trunojoyo Madura
+- 🌱 I’m currently learning backend engineering, cloud computing, dev ops, as well as machine learning
 - 👯 I’m looking to collaborate on community
 - 💬 Ask me about web development and data science 
 - ✈️ You can visit my portfolio website: https://adimasmudi.github.io
@@ -30,7 +30,6 @@
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)&nbsp;
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual%20studio&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)&nbsp;
-![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=flat&logo=rabbitmq&logoColor=white)&nbsp;
 
 #### Language :
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)&nbsp;
