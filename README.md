@@ -14,15 +14,6 @@
   </a>
 </div>
 
-
-- 🔭 I’m currently studying on informatics engineering at Universitas Trunojoyo Madura
-- 🌱 I’m currently learning backend engineering, cloud computing, dev ops, as well as machine learning
-- 👯 I’m looking to collaborate on community
-- 💬 Ask me about web development and data science 
-- ✈️ You can visit my portfolio website: https://adimasmudi.github.io
-<!-- - 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
-
 ### :hammer_and_wrench: Languages and Tools :
 #### Tools :
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)&nbsp;
@@ -37,7 +28,6 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)&nbsp;
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)&nbsp;
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)&nbsp;
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)&nbsp;
 
 #### Framework / Library :
